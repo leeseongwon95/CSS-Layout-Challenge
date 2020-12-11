@@ -1,7 +1,8 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
+        "Helvetica Neue", sans-serif;
     width: 100%;
     height: 100vh;
     margin: 0 auto;
@@ -50,20 +51,19 @@ div span:last-child {
 }
 
 div:first-child {
-    background-color: #BFBDA7;
+    background-color: #bfbda7;
 }
 
 div:nth-child(3) {
-    background-color: #FD4915;
+    background-color: #fd4915;
 }
 
 div:nth-child(5) {
-    background-color: #847F96;
-
+    background-color: #847f96;
 }
 
 div:nth-child(6) {
-    background-color: #D1FF71;
+    background-color: #d1ff71;
 }
 
 div:nth-child(7) {
@@ -71,13 +71,13 @@ div:nth-child(7) {
 }
 
 div:nth-child(8) {
-    background-color: #38AAF9;
+    background-color: #38aaf9;
 }
 
 div:nth-child(10) {
-    background-color: #41907A;
+    background-color: #41907a;
 }
 
 div:last-child {
-    background-color: #E3C4E5;
+    background-color: #e3c4e5;
 }
